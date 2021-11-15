@@ -20,3 +20,4 @@ choco install gitkraken
 choco install gimp
 choco install obsidian
 choco install xnview
+choco install imageglass
