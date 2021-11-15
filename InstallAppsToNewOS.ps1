@@ -19,3 +19,4 @@ choco install firefox
 choco install gitkraken
 choco install gimp
 choco install obsidian
+choco install xnview
