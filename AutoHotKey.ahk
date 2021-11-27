@@ -3,4 +3,4 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
-::kr::Kind regards{Enter}Michael Eldridge
+::kr::Kind regards{Enter}Name Here
