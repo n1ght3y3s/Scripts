@@ -22,3 +22,4 @@ choco install obsidian
 choco install xnview
 choco install imageglass
 choco install autohotkey
+choco install sharex
