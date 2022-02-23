@@ -10,6 +10,7 @@ winget install xnview --source winget
 winget install xnview --source winget
 winget install autohotkey --source winget
 winget install sharex --source winget
+winget install dopus --source winget
 
 # Need to run the following first before running this script.
 # Set-ExecutionPolicy RemoteSigned
