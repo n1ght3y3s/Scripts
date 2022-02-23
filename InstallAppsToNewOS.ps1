@@ -1,3 +1,16 @@
+# Winget versions
+
+winget install git --source winget
+winget install vscode --source winget
+winget install 7zip --source winget
+winget install ilspy --source winget
+winget install gimp --source firefox
+winget install obsidian --source winget
+winget install xnview --source winget
+winget install xnview --source winget
+winget install autohotkey --source winget
+winget install sharex --source winget
+
 # Need to run the following first before running this script.
 # Set-ExecutionPolicy RemoteSigned
 
