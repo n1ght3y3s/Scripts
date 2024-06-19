@@ -1,7 +1,7 @@
 # Winget versions
 
 winget install git --source winget
-winget install vscode --source winget
+winget install Microsoft.VisualStudioCode --override '/SILENT /mergetasks="!runcode,addcontextmenufiles,addcontextmenufolders"'
 winget install 7zip --source winget
 winget install ilspy --source winget
 winget install gimp --source firefox
