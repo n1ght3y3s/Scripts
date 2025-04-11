@@ -7,10 +7,9 @@ winget install ilspy --source winget
 winget install gimp --source firefox
 winget install obsidian --source winget
 winget install xnview --source winget
-winget install xnview --source winget
-winget install autohotkey --source winget
 winget install sharex --source winget
 winget install dopus --source winget
+winget install UweSieber.UsbTreeView --source winget
 
 # Need to run the following first before running this script.
 # Set-ExecutionPolicy RemoteSigned
