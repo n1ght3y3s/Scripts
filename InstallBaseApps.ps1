@@ -19,6 +19,7 @@ choco install firefox
 choco install gitkraken
 choco install gimp
 choco install obsidian
-choco install xnview
-choco install imageglass
-choco install autohotkey
+choco install usbdeview
+choco install sharex
+choco install obs
+choco install quicklook

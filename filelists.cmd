@@ -1,0 +1,1 @@
+dir -recurse "\\nas\Development\Medmont\Medmont Studio\Releases\Current Test Candidate\Medmont Studio 7.2.7\Medmont Studio 7.2.7 (x64)" > "C:\Users\michael.eldridge\Downloads\7.2.7 x64 USB Key Files List.txt"
